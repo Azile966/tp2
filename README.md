@@ -130,7 +130,8 @@ Ce que je pense que je suis en train de faire VS ce que je suis en train de fair
 ![moodboard_profil_multimédia](https://github.com/user-attachments/assets/fbec7ed2-555e-4831-8f4b-ae855871b4d1)
 
 ## Diagramme de flux
-
+![Diagramme de flux](https://github.com/user-attachments/assets/af9e6567-2be0-4770-805a-1877540957e2)
 
 ## Carte mentale
+![carte mentale](https://github.com/user-attachments/assets/1dbc8b8c-158b-4da9-a96c-f088c0a52e5a)
 
