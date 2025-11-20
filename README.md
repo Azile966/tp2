@@ -18,7 +18,7 @@ Devil May Cry 5
 ![Devil May Cry 5 cover](https://wccftech.com/devil-may-cry-5-system-requirements/)
 Genshin Impact
 ![Genshin Inpact cover](https://progameguides.com/genshin-impact/genshin-impact-battle-pass/)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Wuthering Waves cover]([https://myoctocat.com/assets/images/base-octocat.svg](https://shipping.fandom.com/wiki/Wuthering_Waves))
 
 ## Mon profil multimédia
 ###Créative
