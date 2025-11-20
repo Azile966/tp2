@@ -18,7 +18,7 @@ Devil May Cry 5
 ![Devil May Cry 5 cover](https://wccftech.com/devil-may-cry-5-system-requirements/)
 Genshin Impact
 ![Genshin Inpact cover](https://progameguides.com/genshin-impact/genshin-impact-battle-pass/)
-![Wuthering Waves cover]([https://myoctocat.com/assets/images/base-octocat.svg](https://shipping.fandom.com/wiki/Wuthering_Waves))
+![Wuthering Waves cover](https://shipping.fandom.com/wiki/Wuthering_Waves)
 
 ## Mon profil multimédia
 ###Créative
