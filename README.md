@@ -5,14 +5,19 @@
 - Proposer une expérience interactive innovente
 -  Concevoir un jeu vidéo que les gens appécieront
 -  Partager une histoire avec un mélange de contenu visuel et audiovisuel
-![Logo Technique d,intégration multimédia](https://www.cmontmorency.qc.ca/pourensavoirplussur-le-programme/)
-[GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/)
+![Logo Technique d,intégration multimédia](Pour en savoir plus sur le programme | Collège Montmorency
+<img width="909" height="62" alt="image" src="https://github.com/user-attachments/assets/09579015-b536-4160-9b8f-ce55a8a7ba99" />
+)
 
 **Inspirations**
 Wuthering Waves
-![Wuthering Waves cover](https://shipping.fandom.com/wiki/Wuthering_Waves)
+![Wuthering Waves cover](Wuthering Waves | Shipping Wiki | Fandom
+<img width="562" height="53" alt="image" src="https://github.com/user-attachments/assets/72701d7a-7027-4c05-8956-13c82205af29" />
+)
 Punishing: Gray Raven
-![Punishing: Gray Raven cover](https://blipblop.net/music-from-punishing-gray-raven-to-be-released-on-vinyl/)
+![Punishing: Gray Raven cover](Music from Punishing: Gray Raven to be released on vinyl - blip blop
+<img width="851" height="53" alt="image" src="https://github.com/user-attachments/assets/262d4645-2f7e-448a-a947-292e09f87ace" />
+)
 Devil May Cry 5
 ![Devil May Cry 5 cover](https://wccftech.com/devil-may-cry-5-system-requirements/)
 Genshin Impact
