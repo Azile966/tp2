@@ -1,4 +1,7 @@
 # Présentation de mon profil par Eliza Tomoiaga
+_20 novembre 2025_
+
+Analyse de mon profil multimédia
 
 ## Pourquoi j'ai choisi le programme TIM
 **Motivations:**
@@ -122,3 +125,12 @@ Ce que je pense que je suis en train de faire VS ce que je suis en train de fair
 -   Artiste technique
 -   Artiste VFX
 - Créer des jeux vidéo
+
+## Moodboard
+![Galbrena VFX](https://media1.tenor.com/m/6PcORSMjx5QAAAAd/galbrena-ultimate-liberation-animation-wuwa-wuthering-waves.gif)
+
+## Diagramme de flux
+![Galbrena VFX](https://media1.tenor.com/m/6PcORSMjx5QAAAAd/galbrena-ultimate-liberation-animation-wuwa-wuthering-waves.gif)
+
+## Carte mentale
+![Galbrena VFX](https://media1.tenor.com/m/6PcORSMjx5QAAAAd/galbrena-ultimate-liberation-animation-wuwa-wuthering-waves.gif)
