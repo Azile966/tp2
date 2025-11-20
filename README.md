@@ -18,10 +18,9 @@ Devil May Cry 5
 ![Devil May Cry 5 cover](https://wccftech.com/devil-may-cry-5-system-requirements/)
 Genshin Impact
 ![Genshin Inpact cover](https://progameguides.com/genshin-impact/genshin-impact-battle-pass/)
-![Wuthering Waves cover](https://shipping.fandom.com/wiki/Wuthering_Waves)
 
 ## Mon profil multimédia
-###Créative
+### Créative
 - Super imagination pour:
 -   Inventer des histoire
 -   Créer des personnages
@@ -42,9 +41,45 @@ Genshin Impact
 - Pas beaucoup d'expérience dans le domaine du multimédia
 
 ## Mon domaine multimédia préféré
+### 3D
+- Environnement
+- Décors
+- Personnages
+- Objets
+![Modèle 3D](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
+
+## Mon domaine multimédia préféré
+### Gestion de projet
+- Pas capable de gestionner mes tâches comme il le faut:
+-   Laisse presque tous les devoirs et les projets à faire quelques jours avant la remise
+- Procrastine trop --> souvent par manque d'intérêt
+Ce que je pense que je suis en train de faire VS ce que je suis en train de faire
+![Gestion de projet](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
+![Procrastination](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
 
 ## Mon premier choix de carrière ou d'études universitaires
+### Artiste technique
+- Profession qui combine art + technologie
+- Joue un rôle clé dans la création de contenus visuels pour divers projets multimédias
+Art + Technologie = Artiste technique
+![Dessin chat papier](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
+![Technologie](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
+![Artiste technique](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
 
 ## Mon deuxième choix de carrière ou d'études universitaires
+### Artiste VFX
+- Concevoir des effets spéciaux pour des personnages ou objets
+- Présent dans le cinéma et les jeux vidéo
+![Galbrena VFX](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
 
 ## Conclusion
+### Résumé Profil
+- Créative
+- Méticuleuse et apprend rapidement
+- Paresseuse et gère mal son temps
+- Aime beaucoup la 3D et les VFX
+### Aspirations
+- Devenir:
+-   Artiste technique
+-   Artiste VFX
+- Créer des jeux vidéo
