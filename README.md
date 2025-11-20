@@ -7,7 +7,7 @@
 -  Partager une histoire avec un mélange de contenu visuel et audiovisuel
 
 ![Logo Technique d,intégration multimédia](https://www.cmontmorency.qc.ca/wp-content/uploads/2020/11/TIM_logo-767x518.jpg)
-[Logo Technique d'intégration multimédia](https://www.cmontmorency.qc.ca/wp-content/uploads/2020/11/TIM_logo-767x518.jpg)
+[Logo Technique d'intégration multimédia](https://www.cmontmorency.qc.ca/pourensavoirplussur-le-programme/)
 
 **Inspirations**
 
@@ -23,8 +23,8 @@ Punishing: Gray Raven
 
 Devil May Cry 5
 
-![Devil May Cry 5 cover](https://wccftech.com/devil-may-cry-5-system-requirements/)
-[Devil May Cry 5 cover](https://wccftech.com/devil-may-cry-5-system-requirements/)
+![Devil May Cry 5 cover](https://vignette.wikia.nocookie.net/devilmaycry/images/3/31/DMC5_Base_game.png/revision/latest?cb=20180924211435)
+[Devil May Cry 5 cover](https://devilmaycry.fandom.com/wiki/Devil_May_Cry_5)
 
 Genshin Impact
 
@@ -61,7 +61,7 @@ Genshin Impact
 - Personnages
 - Objets
 
-![Modèle 3D](https://twinfinite.net/guides/wuthering-waves-jinhsi-abilities-and-ascension-materials/)
+![Modèle 3D](https://twinfinite.net/wp-content/uploads/2024/06/wuthering-waves-jinhsi-resonance-liberation.jpg?resize=991%2C557)
 [Modèle 3D](https://twinfinite.net/guides/wuthering-waves-jinhsi-abilities-and-ascension-materials/)
 
 ## Mon domaine multimédia préféré
@@ -71,8 +71,8 @@ Genshin Impact
 - Procrastine trop --> souvent par manque d'intérêt
 Ce que je pense que je suis en train de faire VS ce que je suis en train de faire
 
-![Gestion de projet](https://blog-gestion-de-projet.com/calculateur-budget-projet/)
-[Gestion de projet](https://blog-gestion-de-projet.com/calculateur-budget-projet/)
+![Gestion de projet](https://i.ytimg.com/vi/ETlnmgJJBeo/maxresdefault.jpg)
+[Gestion de projet](https://www.youtube.com/watch?v=ETlnmgJJBeo)
 
 ![Procrastination](https://medium.com/@hamzaalaeddine001/the-ultimate-guide-to-procrastination-2f4561283aed)
 [Procrastination](https://medium.com/@hamzaalaeddine001/the-ultimate-guide-to-procrastination-2f4561283aed)
@@ -83,13 +83,13 @@ Ce que je pense que je suis en train de faire VS ce que je suis en train de fair
 - Joue un rôle clé dans la création de contenus visuels pour divers projets multimédias
 **Art + Programmtion = Artiste technique**
 
-![Dessin chat papier](https://www.artlova.com.au/blogs/news/how-to-learn-drawing-tips)
+![Dessin chat papier](https://cdn.shopify.com/s/files/1/1782/6653/articles/pexels-photo-877697_1200x1200.jpg?v=1557458589)
 [Dessin chat papier](https://www.artlova.com.au/blogs/news/how-to-learn-drawing-tips)
 
-![Programmation](https://www.codeur.com/blog/comment-apprendre-la-programmation-informatique/)
+![Programmation](https://www.codeur.com/blog/wp-content/uploads/2022/06/apprendre-programmation-informatique.jpg)
 [Programation](https://www.codeur.com/blog/comment-apprendre-la-programmation-informatique/)
 
-![Artiste technique](https://gamingcampus.fr/metiers/technical-artist.html)
+![Artiste technique](https://i.ytimg.com/vi_webp/1G7iLq1v6fM/maxresdefault.webp)
 [Artiste technique](https://gamingcampus.fr/metiers/technical-artist.html)
 
 ## Mon deuxième choix de carrière ou d'études universitaires
