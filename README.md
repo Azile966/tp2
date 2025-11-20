@@ -6,16 +6,17 @@ Domaines multimédias (session 1)
 - Proposer une expérience interactive innovente
 -  Concevoir un jeu vidéo que les gens appécieront
 -  Partager une histoire avec un mélange de contenu visuel et audiovisuel
+![Logo Technique d,intégration multimédia](https://www.cmontmorency.qc.ca/pourensavoirplussur-le-programme/)
 
 ### Inspirations
 Wuthering Waves
-![Wuthering Waves cover](https                  )
+![Wuthering Waves cover](https://shipping.fandom.com/wiki/Wuthering_Waves)
 Punishing: Gray Raven
-![Punishing: Gray Raven cover](https                  )
+![Punishing: Gray Raven cover](https://blipblop.net/music-from-punishing-gray-raven-to-be-released-on-vinyl/)
 Devil May Cry 5
-![Devil May Cry 5 cover](https                  )
+![Devil May Cry 5 cover](https://wccftech.com/devil-may-cry-5-system-requirements/)
 Genshin Impact
-![Genshin Inpact cover](https                  )
+![Genshin Inpact cover](https://progameguides.com/genshin-impact/genshin-impact-battle-pass/)
 
 ## Mon profil multimédia
 ###Créative
@@ -23,7 +24,7 @@ Genshin Impact
 -   Inventer des histoire
 -   Créer des personnages
 -   Inventer des pouvoirs relié aux personnages
-![Créatif](https                  )
+![Créatif](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
 
 ## Mes forces
 - Créative
