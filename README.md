@@ -1,14 +1,14 @@
 # Présentation de mon profil par Eliza Tomoiaga
 
 ## Pourquoi j'ai choisi le programme TIM
-** Motivations: **
+**Motivations:**
 - Proposer une expérience interactive innovente
 -  Concevoir un jeu vidéo que les gens appécieront
 -  Partager une histoire avec un mélange de contenu visuel et audiovisuel
 ![Logo Technique d,intégration multimédia](https://www.cmontmorency.qc.ca/pourensavoirplussur-le-programme/)
 [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/)
 
-** Inspirations **
+**Inspirations**
 Wuthering Waves
 ![Wuthering Waves cover](https://shipping.fandom.com/wiki/Wuthering_Waves)
 Punishing: Gray Raven
@@ -19,7 +19,7 @@ Genshin Impact
 ![Genshin Inpact cover](https://progameguides.com/genshin-impact/genshin-impact-battle-pass/)
 
 ## Mon profil multimédia
-** Créative **
+**Créative**
 - Super imagination pour:
 -   Inventer des histoire
 -   Créer des personnages
@@ -40,7 +40,7 @@ Genshin Impact
 - Pas beaucoup d'expérience dans le domaine du multimédia
 
 ## Mon domaine multimédia préféré
-** 3D **
+**3D**
 - Environnement
 - Décors
 - Personnages
@@ -48,7 +48,7 @@ Genshin Impact
 ![Modèle 3D](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
 
 ## Mon domaine multimédia préféré
-** Gestion de projet **
+**Gestion de projet**
 - Pas capable de gestionner mes tâches comme il le faut:
 -   Laisse presque tous les devoirs et les projets à faire quelques jours avant la remise
 - Procrastine trop --> souvent par manque d'intérêt
@@ -57,19 +57,21 @@ Ce que je pense que je suis en train de faire VS ce que je suis en train de fair
 ![Procrastination](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
 
 ## Mon premier choix de carrière ou d'études universitaires
-** Artiste technique **
-- Profession qui combine art + technologie
+**Artiste technique**
+- Profession qui combine **art + programmation**
 - Joue un rôle clé dans la création de contenus visuels pour divers projets multimédias
-Art + Technologie = Artiste technique
+**Art + Programmtion = Artiste technique**
 ![Dessin chat papier](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
-![Technologie](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
+![Programmation](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
 ![Artiste technique](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
 
 ## Mon deuxième choix de carrière ou d'études universitaires
-** Artiste VFX **
+**Artiste VFX**
 - Concevoir des effets spéciaux pour des personnages ou objets
 - Présent dans le cinéma et les jeux vidéo
-![Galbrena VFX](https://www.out-the-box.fr/10-facons-detre-creatif-maintenant/)
+![Galbrena VFX](Galbrena Ultimate Liberation Animation Wuwa Wuthering Waves GIF - Galbrena ultimate liberation animation wuwa wuthering waves - Discover & Share GIFs
+<img width="2254" height="62" alt="image" src="https://github.com/user-attachments/assets/c8237aac-9322-4b33-97f4-bb51b30a4e55" />
+)
 
 ## Conclusion
 ### Résumé Profil
